@@ -4,8 +4,8 @@ SEOTitle: 峻枫的博客 | AJF Blog
 header-img: img/post-bg-desk.jpg
 email: anjunfeng@stu.hit.edu.cn
 description: "Every failure is leading towards success."
-keyword: "AJF, JF Blog, 峻枫的博客, anjunfeng, 安峻枫, iOS, Apple, iPhone"
-url: "http://JunfengAn1998.github.io"          # your host, for absolute URL
+keyword: "AJF, JF Blog, 峻枫的博客, anjunfeng, 安峻枫"
+url: "https://JunfengAn1998.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://JunfengAn1998/JunfengAn1998.github.io.git" # you code repository
 
@@ -19,7 +19,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 zhihu_username:     
-github_username:    
+github_username:    JunfengAn1998
 facebook_username:  
 jianshu_username:   
 #twitter_username:
